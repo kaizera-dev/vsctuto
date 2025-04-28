@@ -4,7 +4,7 @@
     "editor.formatOnSave": true,
     "editor.formatOnPaste": true,
     "editor.defaultFormatter": null,
-    "r.bracketedPaste": true,
+    "editor.fontSize": 15,
     "[r]": {
         "editor.defaultFormatter": "Posit.air-vscode"
     }
